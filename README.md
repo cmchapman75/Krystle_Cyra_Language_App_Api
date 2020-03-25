@@ -1,4 +1,29 @@
-# Spaced repetition API!
+# Espanolingo API!
+
+## Contributors:
+   -Christina Chapman
+   -Krystle Noweski
+   -Tomatau
+   -Jonathan Lassen
+
+## Motivation:
+
+   Second capstone in Thinkful EI program.  Spaced Repetition Language app to build knowledge 
+   on app building and data structures and algorithms. 
+
+## Visit Espanolingo:
+
+   * [Client Side Repo] : https://github.com/cmchapman75/Krystle_Cyra_Spaced_Rep_Client
+
+   * [Live App] : https://espanolingo.now.sh/register
+
+## Technologies: 
+   
+   **Front End Tech:** HTML, CSS,   JavaScript, React
+
+**Back End Tech:** NodeJs, ExpressJs, PostgreSQL
+
+**Testing Tech:** Jest, Supertest, Snapshot, Enzyme, Lodash, Mocha, Chai
 
 ## Local dev setup
 
